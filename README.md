@@ -1,9 +1,17 @@
-# SupraPDF Studio — Official Public Releases
+<div align="center">
+  <img src="assets/icon.png" alt="SupraPDF Studio" width="120" height="120" />
+  <h1>SupraPDF Studio</h1>
+  <p><strong>Official Public Releases & Binary Distribution</strong></p>
 
-[![Release](https://img.shields.io/badge/Release-v1.1.0%20Onyx-22C55E?style=for-the-badge&logo=windows)](https://github.com/juacortesva/suprapdf-studio-releases/releases/tag/v1.1.0)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/juacortesva/suprapdf-studio-releases/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows11)](https://github.com/juacortesva/suprapdf-studio-releases/releases)
-[![Offline](https://img.shields.io/badge/Privacy-100%25%20Offline%20%2F%20Air--Gapped-10B981?style=for-the-badge)](https://github.com/juacortesva/suprapdf-studio-releases)
+  <p>
+    <a href="https://github.com/juacortesva/suprapdf-studio-releases/releases/tag/v1.1.0"><img src="https://img.shields.io/badge/Release-v1.1.0%20Onyx-22C55E?style=for-the-badge&logo=windows" alt="Release" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License MIT" /></a>
+    <a href="https://github.com/juacortesva/suprapdf-studio-releases/releases"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows11" alt="Platform" /></a>
+    <a href="https://github.com/juacortesva/suprapdf-studio-releases"><img src="https://img.shields.io/badge/Privacy-100%25%20Offline%20%2F%20Air--Gapped-10B981?style=for-the-badge" alt="Offline" /></a>
+  </p>
+</div>
+
+---
 
 Repositorio oficial y portal público de distribución de binarios certificados de **SupraPDF Studio**, la suite integral de productividad documental para Windows diseñada para la soberanía absoluta de datos y ejecución local desacoplada.
 
@@ -62,4 +70,4 @@ Para verificar la integridad criptográfica y autenticidad de los archivos desca
 
 ## 📄 Licencia
 
-Este software se distribuye bajo la licencia [MIT](LICENSE). Copyright © 2026 Juan David Cortés Vaca.
+Este software se distribuye bajo la licencia [MIT](LICENSE) (o consulte en [Open Source Initiative](https://opensource.org/licenses/MIT)). Copyright © 2026 Juan David Cortés Vaca.
