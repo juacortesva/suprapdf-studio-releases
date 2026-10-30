@@ -48,15 +48,16 @@ Para verificar la integridad criptográfica y autenticidad de los archivos desca
 
 ## 🚀 Novedades de la Versión 1.1.0 "Onyx"
 
+- **Nuevo Motor de Compresión Inteligente de PDF:** Reducción drástica del tamaño de archivos mediante optimización de flujos binarios Deflate y remuestreo bicúbico adaptativo de imágenes con perfiles calibrados (Máxima compresión, Equilibrada, Alta fidelidad), preservando vectores, tipografías y estructura sin artefactos destructivos.
+- **Evolución y Pulido Visual de Interfaz (UI/UX):** Interfaz limpia y estilizada libre de tecnicismos oscuros y códigos hexadecimales crudos en etiquetas, selector de temas y paleta cromática unificada Onyx (grafito/obsidiana con acentos esmeralda), y rediseño de `FirstRunDialog` con bordes redondeados verdaderos y barra de título integrada.
+- **Extracción Nativa Lossless de Imágenes:** Extracción fidedigna de streams binarios XObjects directamente a carpeta o empaquetado automático en ZIP con barra de progreso asíncrona y sin recompresión.
+- **Módulo Dedicado de Reparación de PDF:** Reconstrucción estructural y física de tablas de referencias cruzadas (`xref`) corruptas, flujos binarios y árboles de páginas rotos como herramienta de primer nivel.
+- **Internacionalización Hexagonal Reactiva en 6 Idiomas:** Paridad estricta al 100% y cambio en caliente entre Español, Inglés, Francés, Portugués, Ruso y Chino Simplificado.
+- **Sistema Dinámico FIFO de «Herramientas Recientes»:** Pantalla de inicio interactiva con rastreador dinámico de las funciones más utilizadas.
 - **Visor PDF Nativo Vectorial:** Motor de alta precisión con modos de página, miniaturas y buscador de texto integrado sin dependencias pesadas.
-- **Extracción Nativa Lossless de Imágenes:** Extracción fidedigna de XObjects binarios directamente a carpeta o empaquetado automático en ZIP con barra de progreso asíncrona.
-- **Módulo Dedicado de Reparación de PDF:** Reconstrucción física de tablas de referencias cruzadas (`xref`) corruptas, flujos binarios y árboles de páginas rotos.
-- **Soporte Multilingüe Reactivo en 6 Idiomas:** Paridad estricta al 100% y cambio en caliente entre Español, Inglés, Francés, Portugués, Ruso y Chino Simplificado.
-- **Herramientas Recientes Dinámicas:** Panel de inicio renovado con rastreador FIFO de las últimas 5 herramientas utilizadas.
 - **Pestaña de Metadatos Documentales:** Inspección y purga forense de información confidencial y propiedades de autoría.
 - **Comparador Visual de Documentos:** Detección lado a lado de discrepancias visuales y estructurales entre PDFs.
 - **Editor Visual Enriquecido:** Sellos, formas geométricas vectoriales y firmas manuscritas con remoción inteligente de fondo blanco.
-- **Rediseño Estético Onyx:** Paleta sobria grafito/obsidiana con ventana *frameless*, barra de título integrada y acentos esmeralda.
 
 ---
 
